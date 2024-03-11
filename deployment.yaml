@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name:  vue-webapp
-          image: giddy87/vue:webapp-414aeef1
+          image: horlandohorla1992/vue:webapp-414aeef1
           ports:
             - containerPort: 80 
           imagePullPolicy: Always
